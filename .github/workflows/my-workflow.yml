@@ -13,4 +13,4 @@ jobs:
           uses: ./.github/actions/hello-world
           with:
               first-greeting: "Learning Lab User"
-              second-greeting: "Mona the Octocat 2"
+#              second-greeting: "Mona the Octocat 2"
